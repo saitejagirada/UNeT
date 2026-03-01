@@ -25,3 +25,13 @@ While the model captures the global scene context excellently, there are known l
 * **Architecture:** U-Net (Fully Convolutional Network)
 * **Data Processing:** NumPy, PIL (Pillow)
 * **Optimization:** Adam Optimizer, Masked Cross-Entropy Loss
+
+#image 1
+<img width="256" height="96" alt="val19" src="https://github.com/user-attachments/assets/076d4ef3-8d69-47d5-8489-25975d361906" />
+<img width="256" height="96" alt="coloured_mask1" src="https://github.com/user-attachments/assets/3e133795-c98d-438c-ad7a-6a55a2450315" />
+
+#image2
+<img width="256" height="96" alt="val98" src="https://github.com/user-attachments/assets/bb9b27e0-7045-41ff-8fdf-d743638e4dcd" />
+<img width="256" height="96" alt="coloured_mask2" src="https://github.com/user-attachments/assets/f48420a0-d51a-4a29-9114-34664132109e" />
+
+
