@@ -11,7 +11,7 @@ The core focus of this project was overcoming severe data ingestion bottlenecksâ
 * **Compute-Optimized Training:** Successfully trained the fully convolutional network (FCN) under strict memory constraints. The model demonstrates robust spatial understanding of macro-structures (roads, sidewalks, vehicles) even under aggressive input downsampling (256x96).
 
 ##  Qualitative Results
-*(Insert your original and mask images here)*
+
 The model effectively partitions the scene geometry. Drivable surfaces (purple) are cleanly separated from sidewalks (pink), and dynamic obstacles like vehicles (red) are distinctly localized despite the low spatial resolution.
 
 ##  Limitations & Areas for Improvement (Where the model lags)
